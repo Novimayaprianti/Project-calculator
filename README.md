@@ -1,2 +1,0 @@
-# Project-calculator
-repository calculator
