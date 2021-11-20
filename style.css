@@ -9,6 +9,10 @@
     			padding:0;
 
       }
+      body {
+            background: blue;
+      }
+
       .calculator{
         background: rgb(247, 246, 243);
 
